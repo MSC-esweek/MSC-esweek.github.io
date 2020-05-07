@@ -7,11 +7,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Congming Gao</title>
+<title>SMC2020</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Congming Gao, congming, flash memory, gaocm" />
+<meta name="keywords" content="SMC, ESWEEK" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -82,7 +82,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner -->
 	<div class="banner1">
 		<div class="container">
-			<h2 class="animated wow slideInLeft"><a href="index.html">Welcome to my homepage &#x1F92A;</a></h2>
+			<h2 class="animated wow slideInLeft"><a href="index.html">International Workshop on Storage and Memory Computing (SMC) @ ESWEEK 2020</a></h2>
 		</div>
 	</div>
 <!-- //banner -->
@@ -144,7 +144,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <p><a href="https://dblp.org/pers/hd/g/Gao:Congming" target="view_frame">DBLP: Congming Gao</a></p>
                     <p><a href="https://scholar.google.com/citations?user=vjpzagIAAAAJ&hl=zh-CN" target="view_frame">Google Scholar: Congming Gao</a></p>
                 </div>
-				<div style="display:inline-block;width:200px;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=OIdLwJUqGnMAnhV0r_dOWDkXoZDxEcGLPEafKY8-5sc&co=212121'></script></div>
+				<div style="display:inline-block;width:200px;"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=OIdLwJUqGnMAnhV0r_dOWDkXoZDxEcGLPEafKY8-5sc&co=212121&cmn=f50a34'></script></div>
                 <div class="clearfix"> </div>
 			</div>
 			<div class="footer-grids1">
