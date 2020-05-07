@@ -58,7 +58,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<span class="icon-bar"></span>
 				  </button>
 					<div class="logo">
-						<h1><a class="navbar-brand" href="index.html">Congming Gao</a></h1>
+						<h1><a class="navbar-brand" href="index.html">SMC2020</a></h1>
 					</div>
 				</div>
 
@@ -82,7 +82,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- banner -->
 	<div class="banner1">
 		<div class="container">
-			<h2 class="animated wow slideInLeft"><a href="index.html">International Workshop on Storage and Memory Computing (SMC) @ ESWEEK 2020</a></h2>
+			<h2 class="animated wow slideInLeft"><a href="index.html">International Workshop on <p style="color:red">Storage and Memory Computing (SMC)</p> @ ESWEEK 2020</a></h2>
 		</div>
 	</div>
 <!-- //banner -->
@@ -95,18 +95,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="panel panel-default">
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                             <div class="panel-body panel_text">
-								Hello ! My name is Congming Gao, and I'm currently a Ph.D student in Computer Science at the <b>Chongqing University</b>, China. 
-								<br>
-								<br>
-								My research interests gravitate toward <b>Computer Architecture</b>, <b>Emerging Non-Volatile Memory</b>, <b>Flash Memory</b>, and <b>Embedded and Real-Time Systems</b>. I'm also curious about all mathematics and sciences in general.  
-								<br>
-								<br>
-								In 2014, I obtained a Bachelor Degree in Computer Science at CQU with great honours. 
-								<br>
-								In 2014.09, I stayed at the same school to complete a Ph.D under the supervision of <b>Dr. Liang Shi</b> and <b>Dr. Kai Liu</b> to complete my education. 
-								<br>
-								<br>
-								Now, I'm a Visiting Scholar with the Department of Electrical andComputer Engineering, University of Pittsburgh under the supervision of <b>Dr. Jun Yang</b> and <b>Dr. Youtao Zhang</b>.
+														Memory and storage have been developed during last decades. However, the data transfer cost between CPU and storage or memory becomes the critical challenge for the advanced systems. Storage and memory computing provides a new opportunity to solve this issue by adding computing function beside storage or memory. In this workshop, we are not only interested in the advanced storage and memory computing technologies, but also take a special attention to the advanced storage and memory technologies. The workshop to will bring together scientists and engineers from industry and academia who are working on storage and memory computing architectures and systems. The topics of the workshop will include but not limit to the following topics:
+																1)	Storage Computing Architecture
+																2)	Memory Computing Architecture
+																3)	Systems for Memory and Computing
+																4)	Systems for Storage and Computing
+																5)	State-of-the-art storage technologies
+																6)	State-of-the-art memory technologies
+														ESWEEK is the premier event covering all aspects of hardware and software design for smart, intelligent and connected computing systems. Different from the traditional computing systems, storage and memory computing systems are new types of systems, especially focuses on how to exploit the specific characteristics of storage or memory to enable computing. Same to the theme of ESWEEK, the workshop focuses on the topics about how to enable computing with storage or memory. This is highly related to ESWEEK and complements it.
+														Selected papers, after further revisions, will be considered for publication in special issues of journals.
+
                             </div>
                         </div>
                     </div>
